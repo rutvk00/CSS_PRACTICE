@@ -275,6 +275,7 @@ body{
     color: var(--gray);
     display: flex;
     gap: 0.5rem;
+    align-items: center;
 }
 
 .svg-img{
@@ -283,6 +284,7 @@ body{
 
 .logo-texts{
     font-size: 1rem;
+    text-align: center;
 }
 
 @media screen and (min-width:640px) {
